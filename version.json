@@ -1,7 +1,6 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.1.0",
   "apkUrl": "https://your-cdn-domain.com/path/to/app_v1.0.1.apk",
   "updateLog": "1. 修复了已知BUG\n2. 提升了用户体验\n3. 新增了多项功能",
   "forceUpdate": false,
-  "minSupportedVersion": "1.0.0"
 }
